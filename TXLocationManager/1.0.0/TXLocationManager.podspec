@@ -19,4 +19,5 @@ Pod::Spec.new do |s|
   s.source_files  = "TXLocationManager", "Classes/**/*.{h,m}"
   s.frameworks = "UIKit", "CoreLocation"
 
+
 end
